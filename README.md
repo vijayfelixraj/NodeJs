@@ -1,9 +1,9 @@
 # NodeJs
-# ==========================================================================
+# ===============================
 # Author: Vijay Felix Raj C
 # Purpose: To build a CRUD operation (CREATE, UPDATE, LIST, DELETE)
 # Description: Node.js Rest APIs example with Express, Sequelize & MySQL
-# ==========================================================================
+# ===============================
 # Need to install 
 # Step 1: Run this command "npm install express sequelize mysql2 cors --save"
 # Step 2: Setup Express Server
